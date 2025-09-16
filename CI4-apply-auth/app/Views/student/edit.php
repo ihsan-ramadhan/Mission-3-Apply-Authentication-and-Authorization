@@ -23,7 +23,6 @@
                     <input type="password" id="password" name="password" placeholder="Leave empty to keep current password"
                            class="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md placeholder-gray-400 focus:outline-none focus:ring-primary focus:border-primary sm:text-sm">
                 </div>
-                <p class="mt-1 text-xs text-gray-500">Leave empty to keep current password</p>
             </div>
             
             <div>
