@@ -68,9 +68,18 @@ Berikut adalah dokumentasi jalannya aplikasi:
 
 ---
 
-### 2. Dashboard Admin
+### 2. Admin
+a. Dashboard Admin
+![](/assets/images/admin.png)    
 
-![](/assets/images/admin.png)  
+b. Menambah Course
+![](/assets/images/tambahcourse.png)  
+
+c. Detail Student  
+![](/assets/images/detail.png)  
+
+d. Edit Student
+![](/assets/images/editstudent.png)
 
 ---
 
